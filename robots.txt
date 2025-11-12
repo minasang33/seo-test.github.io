@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://seo-test.github.io/sitemap.xml
+Sitemap: https://github.com/minasang33/seo-test.github.io/sitemap.xml
